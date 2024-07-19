@@ -1,0 +1,5 @@
+teclado;teclado mecânico HyperX mars RGB;599.9;false
+celular;Samsung galaxy a35;1500.0;true
+Televisão;TV Samsung 40' ;2000.0;false
+Mouse;Mouse Gamer Redragon Cobra;120.0;true
+Mousepad;Mousepad Gamer PCYes speed;60.0;true
